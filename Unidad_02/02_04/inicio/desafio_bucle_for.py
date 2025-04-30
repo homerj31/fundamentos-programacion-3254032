@@ -6,3 +6,7 @@ frutas = [
     'mandarinas',
     'granadas',
 ]
+
+print ("Mi listado de frutas")
+for fruta in frutas:
+    print (fruta)
